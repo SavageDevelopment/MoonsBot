@@ -196,4 +196,4 @@ async def setRole(ctx, rbxName, rankId):
   await ctx.send('User has been ranked!')
   
 
-client.run('OTIwNzQ5ODc3Mjc5OTk4MDYy.Ybo5JQ.bzVyFVz5CuWROBnuICArLZMDXDg')
+client.run(TOKEN)
